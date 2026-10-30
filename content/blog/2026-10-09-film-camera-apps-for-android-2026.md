@@ -3,7 +3,7 @@ title: "Film camera apps for Android in 2026: what exists, and what's still miss
 slug: film-camera-apps-for-android-2026
 description: "The best-known film camera apps are still iPhone-only. Here's what Android shooters can use in October 2026, what separates a real film camera app from a filter app, and what to look for."
 date: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-30
 topic: android-film-cameras
 keyword: film camera app for Android
 tags: [android, film camera app, film looks, film grain, halation, mood.camera, lampa]
@@ -16,6 +16,12 @@ sources:
     url: https://www.producthunt.com/products/elmar/launches/elmar
   - title: "Analog.Cafe: Film Price Report Q3 2026 (9 July 2026)"
     url: https://www.analog.cafe/r/the-growing-global-film-price-divide-5qzt
+  - title: "Google Play: Snapseed (updated 23 October 2026)"
+    url: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed
+  - title: "9to5Google: Google rolling out big Snapseed 4.0 update for Android (8 May 2026)"
+    url: https://9to5google.com/2026/05/08/snapseed-4-android-update/
+  - title: "Google Play: FilmRoll: 35mm Film Camera (updated 7 October 2026)"
+    url: https://play.google.com/store/apps/details?id=com.nfm.flut170
 faq:
   - q: "Is there a mood.camera app for Android?"
     a: "No. As of October 2026, mood.camera's own FAQ says it is being developed for iPhone only for the foreseeable future."
@@ -46,7 +52,9 @@ That second approach is the one we explain on the trycheese homepage under [why 
 
 ## What's available on Android right now
 
-The clearest new arrival this year is **ELMAR**, an Android-only film camera app that launched on Product Hunt on 2 May 2026. Its listing names film simulations inspired by Kodak Portra, Fuji Pro 400H, Velvia and Cinestill 800T (seven looks in total), a 28/35/50/75mm focal length selector, a lens effect modelled on the Leica Elmar 50mm, and a scan mode that inverts real developed negatives through the phone's camera. It's a good sign: developers are starting to treat Android as a first-class film camera platform rather than an afterthought.
+One clear new arrival this year is **ELMAR**, an Android-only film camera app that launched on Product Hunt on 2 May 2026. Its listing names film simulations inspired by Kodak Portra, Fuji Pro 400H, Velvia and Cinestill 800T (seven looks in total), a 28/35/50/75mm focal length selector, a lens effect modelled on the Leica Elmar 50mm, and a scan mode that inverts real developed negatives through the phone's camera. It's a good sign: developers are starting to treat Android as a first-class film camera platform rather than an afterthought.
+
+The biggest change is Google's. **Snapseed** 4.0 brought a free in-app camera to Android on 8 May 2026, with 11 film styles you can shoot through in real time and change later. That makes it a hybrid rather than a baked-in film camera, but it's now the obvious free starting point. Here's [what Snapseed Camera does and doesn't do](/blog/snapseed-camera-android). **FilmRoll**, a first release on Google Play this month, goes the other way, with rolls of film, 35 stocks and a darkroom.
 
 Beyond that, most of what you'll find by searching "film camera" on the Play Store sits in the filter-app category described above. That isn't a criticism of those apps (they're useful), but if what you want is the iPhone-style "it's already film" experience, check the listing carefully before you install.
 
