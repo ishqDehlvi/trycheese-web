@@ -3,7 +3,7 @@ title: "Ektacolor Pro vs Portra: Kodak's new film names explained"
 slug: ektacolor-pro-vs-portra
 description: "Ektacolor Pro vs Portra, Ektapan vs T-Max: what Kodak's 2026 film names mean, why Eastman Kodak renamed them, and whether the film inside has changed."
 date: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-31
 topic: film-photography
 keyword: Ektacolor Pro vs Portra
 tags: [film photography, kodak, portra, ektacolor pro, ektapan, colour negative]
@@ -80,7 +80,7 @@ The new names aren't new at all:
 
 Yes, for now. Kodak Alaris's site still features Portra, and Digital Camera World reported that Portra and T-Max boxes looked set to stay on sale alongside the new ones. Expect to see both names on shelves for a while.
 
-At launch, PhotoWorkout reported prices starting at $10.99 a roll for Ektapan and $16.99 a roll for Ektacolor Pro, and suggested the direct-from-Kodak boxes could undercut Portra. Prices move, so check before you buy. For context on how film prices have shifted this year, our guide to [film camera apps on Android](/blog/film-camera-apps-for-android-2026) cites Analog.Cafe's Q3 2026 price report.
+At launch, PhotoWorkout reported prices starting at $10.99 a roll for Ektapan and $16.99 a roll for Ektacolor Pro, and suggested the direct-from-Kodak boxes could undercut Portra. Prices move, so check before you buy. Instant film is a different sum again: here's [how Instax and Polaroid compare per shot](/blog/instax-vs-polaroid-film). For context on how film prices have shifted this year, our guide to [film camera apps on Android](/blog/film-camera-apps-for-android-2026) cites Analog.Cafe's Q3 2026 price report.
 
 A simple buying checklist:
 
