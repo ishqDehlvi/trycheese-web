@@ -3,6 +3,7 @@ title: "Film grain vs digital noise: what's the difference?"
 slug: film-grain-vs-digital-noise
 description: "Film grain vs digital noise: where each one comes from, why grain reads as texture and noise as damage, and how to spot digital grain that's just an overlay."
 date: 2026-10-23
+updated: 2026-11-02
 topic: grain-and-halation
 keyword: film grain vs digital noise
 tags: [film grain, digital noise, grain, phone photography, film looks, iso]
@@ -63,7 +64,7 @@ Cambridge in Colour's tutorial adds the patterns worth knowing:
 
 - **Darker areas are noisier.** On a digital camera, darker regions carry more noise than bright ones, and the tutorial notes that film tends the other way.
 - **Colour noise looks worst.** Chroma noise is usually the more unnatural-looking kind.
-- **Bigger pixels help.** Larger pixels gather more light, so cameras with them generally look less noisy.
+- **Bigger pixels help.** Larger pixels gather more light, so cameras with them generally look less noisy. A faster lens helps too, which is the thinking behind [the iPhone 18 Pro's variable aperture](/blog/iphone-18-pro-variable-aperture).
 
 ## Why grain looks good and noise doesn't
 

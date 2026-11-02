@@ -3,6 +3,7 @@ title: "Black and white film look: what makes it, how to shoot it"
 slug: black-and-white-film-look
 description: "What gives black and white film its look: how colours turn into greys, classic vs fine grain, and glow. Plus how to shoot a convincing version on a phone."
 date: 2026-10-22
+updated: 2026-11-02
 topic: film-looks
 keyword: black and white film look
 tags: [film looks, black and white, film grain, halation, film photography, iphone]
@@ -25,12 +26,12 @@ faq:
   - q: "What's the difference between Ilford Delta and HP5 Plus?"
     a: "Delta films use newer emulsion technology with less grain for their speed, so they look cleaner and a touch sharper. HP5 Plus and the other Plus films have more exposure latitude and cope better with pushing, pulling and over-development, which is why Ilford suggests starting with them."
   - q: "Is the MARS camera app on Android?"
-    a: "No. MARS is an iPhone app. PetaPixel reports it launches on the App Store on 1 November 2026 for $6.99, with no subscription."
+    a: "No. MARS is an iPhone app. PetaPixel reported it was due on the App Store on 1 November 2026 for $6.99, with no subscription."
 ---
 
 The **black and white film look** isn't a colour photo with the colour drained out. It comes from three things film does on its own: it decides which colours turn light and which turn dark, it builds the image out of grain, and it lets bright light glow into the shadows.
 
-It's having a moment, too. This month PetaPixel covered MARS, a new iPhone camera app from Japanese photographer Keitaro Kobayashi that shoots black and white only, with just three controls: Glow, Exposure and Grain. Here's what each of those is actually imitating, and how to get the look on any phone.
+It's having a moment, too. In October PetaPixel covered MARS, a new iPhone camera app from Japanese photographer Keitaro Kobayashi that shoots black and white only, with just three controls: Glow, Exposure and Grain. Here's what each of those is actually imitating, and how to get the look on any phone.
 
 ## What makes the black and white film look
 
@@ -95,7 +96,7 @@ A short checklist that works whatever app you use:
 
 ## Apps to try, and where trycheese fits
 
-**MARS** is the newest dedicated option. According to PetaPixel, it develops each frame live from the iPhone's HDR signal, so the viewfinder shows what you'll keep. It offers 1:1, 5:4, 4:3, 3:2 and 16:9 crops, and costs $6.99 with no ads, no subscription and no data collection. It launches on the App Store on 1 November 2026, as an iPhone app.
+**MARS** is the newest dedicated option. According to PetaPixel, it develops each frame live from the iPhone's HDR signal, so the viewfinder shows what you'll keep. It offers 1:1, 5:4, 4:3, 3:2 and 16:9 crops, and costs $6.99 with no ads, no subscription and no data collection. PetaPixel reported a 1 November 2026 launch on the App Store, as an iPhone app, though we couldn't find a listing to confirm it on 2 November.
 
 **trycheese** takes a different route. Its catalogue includes two black and white [film looks](/#looks): Smoked, a hard black and white, and Swiss, a soft one. Like every trycheese look, they bake grain, halation and a filmic tone curve into the photo at the shutter. There's [no live filter preview](/#in-the-moment), so you frame the scene and see the result a beat later.
 

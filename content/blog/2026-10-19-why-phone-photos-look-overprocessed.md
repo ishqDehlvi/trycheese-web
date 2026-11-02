@@ -3,7 +3,7 @@ title: "Why phone photos look overprocessed (and how to fix it)"
 slug: why-phone-photos-look-overprocessed
 description: "Why phone photos look overprocessed: HDR merging, sharpening and smoothing. Plus the settings that tone it down on iPhone, Pixel and Galaxy phones in 2026."
 date: 2026-10-19
-updated: 2026-10-20
+updated: 2026-11-02
 topic: phone-photography
 keyword: why phone photos look overprocessed
 tags: [phone photography, hdr, iphone, android, pixel, samsung, film looks]
@@ -58,7 +58,7 @@ None of that is a bug. It's tuning for a photo that looks impressive at a glance
 
 **Photographic Styles.** Styles adjust colour and tone in different parts of the frame and apply to every photo you take. Open Camera, swipe up from the modes, tap Styles, then Customize (on recent models) to change tone, colour and intensity. Apple notes you need High Efficiency (HEIF) capture, set in Settings > Camera > Formats, to edit the style later in Photos. Styles shape the colour. They don't switch off the merging underneath.
 
-**Texture and Grain on iPhone 18 Pro.** New in iOS 27, the Customize panel adds a Texture control with Soft Skin, Glow and Film options, plus a Grain control that adds film grain on top. As MacRumors reported on 22 September 2026, Apple first described wider support, then narrowed it: the controls now apply only to photos taken on iPhone 18 Pro models (and some cameras on the iPhone Duo).
+**Texture and Grain on iPhone 18 Pro.** New in iOS 27, the Customize panel adds a Texture control with Soft Skin, Glow and Film options, plus a Grain control that adds film grain on top. As MacRumors reported on 22 September 2026, Apple first described wider support, then narrowed it: the controls now apply only to photos taken on iPhone 18 Pro models (and some cameras on the iPhone Duo). The same phones add [a variable aperture](/blog/iphone-18-pro-variable-aperture), which changes the light but not the processing.
 
 **ProRAW.** Shooting RAW feels like the obvious escape, but Apple is clear that ProRAW combines standard RAW data with iPhone image processing, and it works with Smart HDR, Deep Fusion and Night mode. It gives you far more room to edit. It's not unprocessed. Turn it on in Settings > Camera > Formats (iPhone 12 Pro and later Pro models), and budget for roughly 25 MB per 12 MP photo or 75 MB at 48 MP.
 
