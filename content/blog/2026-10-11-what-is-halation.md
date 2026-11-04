@@ -3,7 +3,7 @@ title: "What is halation? The red glow around lights, explained"
 slug: what-is-halation
 description: "What is halation? Why film puts a red-orange glow around streetlights, how it differs from bloom and lens flare, and how to spot a convincing digital version."
 date: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-04
 topic: grain-and-halation
 keyword: what is halation
 tags: [halation, film grain, film looks, bloom, cinestill 800t, film photography]
@@ -63,7 +63,7 @@ These three often get lumped together as "glow", but they come from different pl
 | Bloom | A softer, neutral white glow where bright areas spill into their surroundings | Diffusion: soft lenses, filters, haze or fog |
 | Lens flare | Streaks, starbursts or circles across the frame | Direct light bouncing between elements inside the lens |
 
-The quick test: if the glow is colourful and tight to the light source, it's halation. If it's white and soft, it's bloom. If it has shapes and streaks pointing away from the light, it's flare. Real photos often show more than one at once.
+The quick test: if the glow is colourful and tight to the light source, it's halation. If it's white and soft, it's bloom. If it has shapes and streaks pointing away from the light, it's flare. Real photos often show more than one at once. If you want bloom on purpose, a diffusion filter is the classic route: here's [what a Black Pro-Mist filter actually does](/blog/black-pro-mist-filter-explained).
 
 ## How halation is recreated digitally, and how to spot a fake
 

@@ -3,6 +3,7 @@ title: "Instax vs Polaroid film: which instant film should you buy?"
 slug: instax-vs-polaroid-film
 description: "Instax vs Polaroid film: size, price per shot, develop time and temperature, from each maker's own specs. Plus why Fujifilm is building more Instax lines."
 date: 2026-10-31
+updated: 2026-11-04
 topic: film-photography
 keyword: Instax vs Polaroid film
 tags: [film photography, instant film, instax, polaroid, fujifilm, film prices]
@@ -53,7 +54,7 @@ Instant film clearly isn't slowing down, either. On 20 October, Fujifilm announc
 
 Prices are from Fujifilm's and Polaroid's UK stores on 31 October 2026, and they change. Polaroid's price falls to £15 a pack if you buy five, which brings it to about £1.88 a shot. In the US, Polaroid lists the same pack at $18.99.
 
-Instax also comes in two bigger formats: SQUARE, with a 62 x 62 mm image, and WIDE, at 99 x 62 mm.
+Instax also comes in two bigger formats: SQUARE, with a 62 x 62 mm image, and WIDE, at 99 x 62 mm. Since we published this, Fujifilm has announced SQUARE Soft Haze, a film with a new emulsion for soft light effects and warm tones. Here's [the diffusion look behind it](/blog/black-pro-mist-filter-explained).
 
 ## Price per shot isn't the whole story
 
