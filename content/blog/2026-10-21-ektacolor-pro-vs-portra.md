@@ -3,7 +3,7 @@ title: "Ektacolor Pro vs Portra: Kodak's new film names explained"
 slug: ektacolor-pro-vs-portra
 description: "Ektacolor Pro vs Portra, Ektapan vs T-Max: what Kodak's 2026 film names mean, why Eastman Kodak renamed them, and whether the film inside has changed."
 date: 2026-10-21
-updated: 2026-10-31
+updated: 2026-11-05
 topic: film-photography
 keyword: Ektacolor Pro vs Portra
 tags: [film photography, kodak, portra, ektacolor pro, ektapan, colour negative]
@@ -68,7 +68,7 @@ So if you have a favourite way to expose and develop Portra 400, it should carry
 
 It comes down to two Kodaks. After Eastman Kodak's 2012 bankruptcy, a separate company, Kodak Alaris, took over much of the film business from 2013: distribution, sales and branding. Eastman Kodak kept manufacturing, in Rochester. For over a decade, one Kodak made the film and another Kodak sold it.
 
-According to PhotoWorkout, Eastman Kodak started bringing film distribution back in-house in September 2025, and the March 2026 launch completed that move for its professional films. The catch, as Fuji X Weekly explains it, is that making a film doesn't guarantee you can print its famous name on the box. Some Kodak trademarks are tied up in past agreements, so Eastman Kodak chose new names over buying the old ones back.
+According to PhotoWorkout, Eastman Kodak started bringing film distribution back in-house in September 2025, and the March 2026 launch completed that move for its professional films. The catch, as Fuji X Weekly explains it, is that making a film doesn't guarantee you can print its famous name on the box. Some Kodak trademarks are tied up in past agreements, so Eastman Kodak chose new names over buying the old ones back. The switch has come alongside strong results for Kodak's materials and film unit, which we cover in [what 2026's numbers say about film's comeback](/blog/is-film-photography-making-a-comeback).
 
 The new names aren't new at all:
 

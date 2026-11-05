@@ -3,7 +3,7 @@ title: "Instax vs Polaroid film: which instant film should you buy?"
 slug: instax-vs-polaroid-film
 description: "Instax vs Polaroid film: size, price per shot, develop time and temperature, from each maker's own specs. Plus why Fujifilm is building more Instax lines."
 date: 2026-10-31
-updated: 2026-11-04
+updated: 2026-11-05
 topic: film-photography
 keyword: Instax vs Polaroid film
 tags: [film photography, instant film, instax, polaroid, fujifilm, film prices]
@@ -96,7 +96,7 @@ Fujifilm's numbers tell the story:
 - Since 2022, it has been investing toward a rise of about 70% compared with FY2022.
 - Instax sales reached 200 billion yen in FY2025, a fifth straight record year.
 
-Polaroid, for its part, describes its Netherlands plant as the world's last Polaroid film factory. It's a nice reminder that the film world is still moving, from [Kodak's new film names](/blog/ektacolor-pro-vs-portra) to new production lines.
+Polaroid, for its part, describes its Netherlands plant as the world's last Polaroid film factory. For the wider picture, including Kodak's latest results, here's [whether film photography is really making a comeback](/blog/is-film-photography-making-a-comeback). It's a nice reminder that the film world is still moving, from [Kodak's new film names](/blog/ektacolor-pro-vs-portra) to new production lines.
 
 ## Which should you buy?
 
