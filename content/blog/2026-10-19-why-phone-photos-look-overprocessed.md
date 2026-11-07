@@ -3,7 +3,7 @@ title: "Why phone photos look overprocessed (and how to fix it)"
 slug: why-phone-photos-look-overprocessed
 description: "Why phone photos look overprocessed: HDR merging, sharpening and smoothing. Plus the settings that tone it down on iPhone, Pixel and Galaxy phones in 2026."
 date: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-07
 topic: phone-photography
 keyword: why phone photos look overprocessed
 tags: [phone photography, hdr, iphone, android, pixel, samsung, film looks]
@@ -81,7 +81,7 @@ Samsung hides its most useful processing controls in an add-on called Camera Ass
 1. **Auto HDR.** Turn it off to stop the camera evening out bright and dark areas.
 2. **Picture softening.** Switch it on to smooth over-sharp edges and textures in Photo mode.
 
-Options vary by model and One UI version, so check what your Galaxy actually offers.
+Options vary by model and One UI version, so check what your Galaxy actually offers. For the next step, here's [how to get a film look on a Samsung Galaxy](/blog/film-look-samsung-galaxy).
 
 ## Quick reference
 
